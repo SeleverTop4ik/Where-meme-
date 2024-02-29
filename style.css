@@ -14,7 +14,7 @@ nav a{
 
 nav {
     margin: 15px;
-    padding: 10px;
+    padding: 20px;
     background-color: green;
     border-radius: 10px;
     text-align: center;
@@ -45,6 +45,7 @@ h1 {
 
 body {
     background-color:lightgreen;
+    font-family: Franklin Gothic Medium; 
 }
 
 footer {
@@ -58,8 +59,4 @@ footer {
 footer a {
     text-decoration: none;
     color: white;
-}
-
-p {
-    font-family: Franklin Gothic Medium; 
 }
